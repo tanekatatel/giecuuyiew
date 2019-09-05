@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiotauthu.eric.jp/sitemap.xml
